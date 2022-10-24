@@ -12,5 +12,11 @@ Codo a Codo 4.0 es un Programa de enseñanza en Programación, destinado a perso
 ## TRABAJO PRÁCTICO INTEGRADOR N° 1 del curso "Codo a Codo 4.0"
 Trabajo realizado con puro Frontend hecho con HTML5, CSS3 y Bootstrap.
 
+## Vista Versión Desktop
+<img alt="Version Desktop Página"  src="https://i.postimg.cc/W3r579xD/Desktop.jpg"/>
+
+## Vista Versión Móbile
+<img alt="Version Móbile Página"  src="https://i.postimg.cc/HkdjWVTF/Mobile.jpg"/>
+
 ### En Github Pages
 https://lokywolf2295.github.io/tpIntegrador1CodoaCodo4.0/
