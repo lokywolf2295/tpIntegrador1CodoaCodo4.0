@@ -22,5 +22,8 @@ Trabajo realizado con puro Frontend hecho con HTML5, CSS3 y Bootstrap.
 ## Vista Versión Móbile
 <img alt="Version Móbile Página"  src="https://i.postimg.cc/HkdjWVTF/Mobile.jpg"/>
 
+## Vista Versión Desktop de la Página Tickets
+<img alt="Version Desktop Página Tickets"  src="https://i.postimg.cc/T3BWVwfL/Tickets.jpg"/>
+
 ### En Github Pages
 https://lokywolf2295.github.io/tpIntegrador1CodoaCodo4.0/
